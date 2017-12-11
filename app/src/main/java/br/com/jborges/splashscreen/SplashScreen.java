@@ -23,7 +23,7 @@ public class SplashScreen extends AppCompatActivity {
     private void carregar() {
         Animation anim = AnimationUtils.loadAnimation(this, R.anim.animacao_splash);
         anim.reset();
-//Pegando o nosso objeto criado no layout
+       //Pegando o nosso objeto criado no layout
         ImageView iv = (ImageView) findViewById(R.id.splash);
         if (iv != null) {
             iv.clearAnimation();

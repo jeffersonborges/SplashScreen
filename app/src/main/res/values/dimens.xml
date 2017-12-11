@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dimes">150dp</dimen>
+    <dimen name="largura_logo_splash">150dp</dimen>
+    <dimen name="altura_logo_splash">150dp</dimen>
+    <dimen name="activity_vertical_margin">dimes</dimen>
+    <dimen name="activity_horizontal_margin">dimes</dimen>
+</resources>
